@@ -1,4 +1,4 @@
 yii-widgets
 ===========
 
-Widget for Yii
+Widgets for Yii
