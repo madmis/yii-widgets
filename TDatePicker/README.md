@@ -3,7 +3,7 @@
 
 # Screenshots
 
-![Datepicker](http://screenshot.su/show.php?img=a6e55e13c30bfbc8b7104eb082495981.jpg)
+![Datepicker](https://github.com/madmis/yii-widgets/tree/master/TDatePicker/screenshot/a6e55e13c30bfbc8b7104eb082495981.jpg)
 
 ![Datepicker](http://screenshot.su/show.php?img=8572eb857b487f48054c03817b8c5711.jpg)
 
